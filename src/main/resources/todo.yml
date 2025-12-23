@@ -1,0 +1,171 @@
+#save squares
+#save heads (remove custom heads)
+#save states
+#save humans
+#save flags
+#update ranks asynchronously
+#/claim auto
+#/unclaim all/auto
+#/square (koordinaten, staat, staat id, hauptstadt, unclaimable)
+#/empireadmin power/level/square/free/delete/capital
+#backups (/ea backup)
+#no nether travel (nicht /8? + no travel)
+#no elytras (nur end?)
+#flags
+#descriptions
+#enter message
+#dying (-20% or smth) (give to killer) (broadcast loss)
+#keep inventory part
+#entities nether portals
+#chat look
+#state color
+#/state invite + accept
+#max members
+#/state leave + delete (broadcast) (+delete team) (+delete state file)
+#colored name tags
+#tablist tag+color
+#alliances/enemies (+broadcasts)
+#ally list + enemy list + member list
+#country level (more quests, radius)
+#leveling
+#levels
+#pl3xmap onenable
+#access settings
+#settings ownerless tnt + villager doors
+#claim radius
+#no respawning in other countries
+#choose start (miniature earth)
+#worldspawn
+#teleport players around globe (boats?) (leashed?)
+#ranking
+#capital
+#daily rewards (per player) (flag, power)
+#daily quests (biome, mine, pay items, kill mobs)
+#claim needs more and more power
+#head drop
+#/kill /suicide?
+#/msg state + /r
+#land kürzel
+#nether /claim
+#minecart speed
+#pl3xmap
+#map hide armor/health
+#territory protection
+#entitydamageentity
+#custom mob griefing (villagers<, endermen<, ravagers<, creeper<, fireballs<, small fireballs<, crystals<, witherheads<, rabbits<, snow golem<, silverfish<, lightning<)
+#item frames,glow item frames,paintings armor stands,boats,boats with chest,minecarts
+#effect griefing (weaving)
+#pistons (chunk borders)
+#zombie door griefing (breakdoorevent)
+#nether portal griefing
+#dispenser griefing
+#water/lava flow griefing
+#tnt  (border regions) (cancel because damage to mobs)
+#access levels
+#raid griefing
+#wither griefing
+#warden griefing
+#lightning griefing
+#fishing rod griefing
+#firework crossbow griefing
+#egg griefing
+#projectile pots/chorus griefing
+#sponge griefing
+#slow falling
+#riptide
+#firetick off
+#enderperlen und chorus
+#wind charges
+#gezähmte tiere interagieren
+#sprachen
+#crates (icon auf map) (trims,rails,ominous bottles,heads,sniffer,sherds)
+#crate loot
+#/ea poi <x> <z> (fragezeichen manuell)
+#banner pattern craft recipes
+#scoreboard map (/minimap)
+#monster in anderen ländern angreifen
+#name capital
+#custom markers (level)
+#quests
+#translate german
+#/welcomemessage chat/title/off
+#shops
+#donater something
+#miniature earth pushing
+#tab header & footer
+#skip quests
+#chunk generator
+#entities through end portal would end up at miniature earth
+#miniature earth mob spawning
+label {}
+pl3xmap state refresh
+claim radius cant click state
+kannst anfrage trotz feind schicken bzw nicht annehmen
+make saving not break on error
+timeout zeit 5s
+pl3xmap invis is like offline
+  
+nerf dolphin + depth strider
+level no enum
+duels
+combat logging (check alliance, server stop)
+cant unclaim when player present
+invis hide from tablist + fake messages + no messages when joining/leaving + spoof server info
+test boat in hand public boats kiste öffnen oder so
+killing power loss less
+state leave power loss less
+felder übergeben
+railways karte builder
+total stats
+railway commands 2 args
+update
+chest minecarts schnell
+debug head stacking
+if online player count is updated before joinevent the maxplayer setting might be too low
+/ea unclaim <radius>
+teleport stops minecart
+
+
+
+
+
+eggs quest?
+vehicle knockback by creeper no fix?
+name color according to relation?
+stats?
+whitelist rechte?
+achievements?
+
+
+
+
+
+spawn-protection=0
+enforce-secure-profile=false
+initial-enabled-packs=vanilla,minecart_improvements
+difficulty=normal (oder vote?)
+white-list=true
+hide-online-players=true
+bukkit.yml worlds:world:generator: Empire
+server icon
+pl3xmap remove health + armor
+pl3xmap add zoom level
+pl3xmap disable world border
+pl3xmap disable nether map
+pl3xmap default view
+copy icons
+copy translations
+game rules
+  
+  
+regeln (nicht einkreisen, bugs reporten, keine hassrede lel, no lag, no claimtrapping, no spam, no altacc)
+
+tutorials:
+#ip, version, map, donate
+#earth info (1.63km, 24576*12288, north=north, walk around)
+#transportation
+#flags
+#commands
+#dying
+#shops
+#markers

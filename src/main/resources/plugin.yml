@@ -1,0 +1,43 @@
+name: Empire
+version: 2.0.0
+main: eu.judevving.empire.main.Main
+api-version: '1.21'
+authors: [ judevving ]
+load: STARTUP
+commands:
+  claim:
+  convertcoordinates:
+    aliases:
+      - cc
+  doublejump:
+    aliases:
+      - dj
+  empireadmin:
+    aliases:
+      - ea
+  empiredebug:
+    aliases:
+      - ed
+  home:
+  language:
+    aliases:
+      - sprache
+  marker:
+  message:
+    aliases:
+      - msg
+  minimap:
+    aliases:
+      - mm
+  square:
+  state:
+    aliases:
+      - s
+  reply:
+    aliases:
+      - r
+  suicide:
+  unclaim:
+  welcomemessage:
+    aliases:
+      - wm
